@@ -105,6 +105,11 @@ body {
   flex-basis: 50%;
 }
 
+.image {
+  padding: 0px;
+  width: 100px;
+}
+
 /* unholy css to style input type="range" */
 
 input[type=range] {
